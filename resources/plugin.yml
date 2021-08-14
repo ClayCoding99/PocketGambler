@@ -1,0 +1,20 @@
+main: me.claycoding.pocketgambler.Main
+name: PocketGambler
+author: ClayCoding
+api-version: '1.13'
+version: 1.0.0
+description: An inventory gui plugin with all your favourite gambling games!
+commands:
+  gamble:
+    usage: /gamble
+    description: opens the slots menu
+  wheel:
+    usage: /wheel
+    description: opens wheel gamble menu
+  give:
+    usage: /give (player) (amount)
+    description: gives the player the specified amount of money
+  balance:
+    usage: /balance (name)
+    description: shows a player's balacne
+

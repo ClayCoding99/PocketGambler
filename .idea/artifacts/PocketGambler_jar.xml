@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="PocketGambler:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/PocketGambler_jar</output-path>
+    <root id="archive" name="PocketGambler.jar">
+      <element id="module-output" name="PocketGambler" />
+    </root>
+  </artifact>
+</component>
